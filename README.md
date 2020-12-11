@@ -1,6 +1,6 @@
 # Bank Project for MQ text
 
-This is a node API to Ilustrate the rabbit MQ on action
+This is a node API to Ilustrate a simple API on node-js
 
 ## Installation
 
